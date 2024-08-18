@@ -17,7 +17,7 @@
 まず、GitHubリポジトリからプロジェクトをクローンします。
 
 ```bash
-git clone https://github.com/username/fastapi-ssh-server.git
+git clone https://github.com/DaisukeHori/fastapi-ssh-server.git
 cd fastapi-ssh-server
 ```
 
